@@ -1,0 +1,263 @@
+@charset "UTF-8";
+header{
+    background-color: beige;
+    position: fixed;
+    width: 100%;
+}
+.header-right{
+    float: right;
+    padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+    
+    
+}
+.header-list{
+    display: flex;
+    
+    font-size: 35px;
+    gap:40px;
+    padding: 8px;
+    padding-top: 20px;
+}
+.header-list a{
+    display: block;
+    color: palevioletred;
+}
+body{
+    margin:0;
+}
+.top{
+    background-image: url(https://girlydrop.com/wp-content/uploads/post/p224.jpg);
+    background-size:cover ;
+    height: 800px;
+    width: 100%;
+}
+.top-logo{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;
+    line-height:800px;
+}
+.in p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.int-margin{
+    margin: 0 auto;
+    width: 1000px;
+}
+.int-flex{
+    display: flex;
+    gap:15px;
+}
+.int-left{
+    width: 40%;
+    position: relative;
+}
+.int-image img{
+    width: 350px;
+    height: 300px;
+}
+.int-pink img{
+    width:400px;
+    height: 350px;
+    z-index: 0px;
+   
+}
+.int-image{
+    position: absolute;
+    top: 70px;
+    left:90px;
+    z-index: 0px;
+}
+.int-right{
+    width: 60%;
+    padding-left: 70px;
+}
+.int-article {
+    font-family: serif;
+    font-size: 20px;
+}
+.art{
+    padding:8px;
+}
+
+
+.aboutt{
+    background-image: url(https://pakutaso.cdn.rabify.me/shared/img/thumb/elly134101938.jpg.webp?d=1420);
+    background-size: cover;
+    margin-top: 70px;
+    
+    
+
+}
+
+
+.about-margin{
+    background: rgba(255, 255, 255, 0.5);
+    padding-top: 30px;
+   
+   
+}
+
+.ppp{
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #A0522D;
+    padding-bottom: 10px;
+    
+}
+
+.aboutt p{
+    
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin:0px;
+    background: rgba(255, 255, 255, 0.5);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.about-margin p{
+    text-align: center;
+    font-size:20px;
+}
+.conceptt p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.con-margin{
+    margin: 0 auto;
+    width: 1100px;
+}
+.con-flex{
+    display: flex;
+    gap:10px;
+}
+.con-img{
+    width: 40%;
+}
+.con-img img{
+    height:300px;
+    width: 80%;
+    opacity: 0.7;
+}
+.con-article{
+    width: 50%;
+}
+.con-article p{
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+    padding-bottom: 10px;
+}
+.serv{
+    background-color: #FFDAB9;
+    background-size: cover;
+    color: #8B4513;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ser-margin{
+    margin: 0 auto;
+    width: 1300px;
+}
+.ser-flex{
+    display: flex;
+}
+.serv p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px; 
+    padding-top: 40px;
+    margin-bottom: 0px;
+}
+.item{
+    width: 45%;
+}
+.items{
+    padding-top:50px;
+    display: flex;
+    gap:10px;
+}
+.items fa{
+    font-size: 7em;
+    text-align: center;
+    
+    
+    
+}
+.hhh{
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.ggg{
+    font-size: 15px;
+    text-align: center;
+    margin:0px;
+    padding-bottom: 10px;
+}
+.ser-list p{
+    font-size: 20px;
+}
+.contac{
+    font-family: serif;
+    color:#8B4513;
+}
+.co-margin{
+    margin: 0 auto;
+    width: 900px;
+}
+.co-flex{
+    display: flex;
+    gap:10%;
+}
+.co-left{
+    width: 50%;
+    font-size: 40px;
+  
+    text-align: center;
+}
+.co-left fa{
+    font-size: 6em;
+    position: relative;
+    top: 50px;
+    color: pink;
+    
+    
+}
+.contact{
+    position: absolute;
+    top: 70px;
+}
+.co-right{
+    width: 50%;
+}
+.contact-form{
+    padding-top: 50px;
+    text-align: center;
+}
+.con-sub{
+    
+    font-size: 30px;
+}
+.mmm{
+    font-size: 30px;
+    text-align: center;
+    background-color: beige;
+    color: plum;
+    font-family: serif;
+}
